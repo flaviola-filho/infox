@@ -69,9 +69,11 @@ Cadastro de Usuários
 Em fase de conclusão.
 
 🤝 Contribuição
-Fique à vontade para sugerir melhorias ou relatar problemas. Contribuições são sempre bem-vindas!
+Fique à vontade para sugerir melhorias ou relatar problemas.
+Contribuições são sempre bem-vindas!
 
 🧑‍💻 Desenvolvedor
 Flavio Luiz de Araujo Filho
 LinkedIn | GitHub
-Gostou do projeto? 🌟 Não esqueça de dar uma ⭐️ no repositório!
+Gostou do projeto?
+🌟 Não esqueça de dar uma ⭐️ no repositório!
