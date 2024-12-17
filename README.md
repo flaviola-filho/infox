@@ -42,17 +42,23 @@ Compile e execute a classe principal TelaPrincipal.java.
 ![image](https://github.com/user-attachments/assets/5fe593d9-e453-42d7-a0b1-f0c67e35f806)
 
 📌Tela Principal
+
 ![image](https://github.com/user-attachments/assets/3bcc060d-103d-40bd-b795-fbb58cfb6e86)
 
 
 📌 Menu Cadastro
 Cadastro de Clientes
+
 ![image](https://github.com/user-attachments/assets/0e961a53-e703-44bc-a4cc-ca9015f64d6b)
 
+
 OS
+
 ![image](https://github.com/user-attachments/assets/b5413be5-36e7-4591-babb-21d857853332)
 
+
 Cadastro de Usuários
+
 ![image](https://github.com/user-attachments/assets/d361aa80-6c0b-4ebc-bf20-60cafdc5033c)
 
 
